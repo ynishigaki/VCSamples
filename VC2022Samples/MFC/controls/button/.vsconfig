@@ -103,8 +103,5 @@
     "Microsoft.VisualStudio.Component.VC.14.29.16.11.CLI.Support",
     "Microsoft.VisualStudio.Component.VC.14.29.16.11.MFC",
     "Microsoft.Net.Component.4.7.2.SDK"
-  ],
-  "extensions": [
-    "https://marketplace.visualstudio.com/items?itemName=MLNET.ModelBuilder2022"
   ]
 }
